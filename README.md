@@ -28,6 +28,7 @@ Cryptocurrency, generally referred to as cryptocurrency or crypto, may be any so
 currency that exists digitally or nearly and uses cryptography to secure transactions. 
 Cryptocurrencies don't have a central issuance or regulation authority, rather than 
 employing a suburbanized system to record transactions and issue new units.
+
 1. Bitcoin (BTC) - Created in 2009 by someone under the pseudonym Satoshi 
 Nakamoto, Bitcoin (BTC) is the original cryptocurrency. As with most 
 cryptocurrencies, BTC runs on a blockchain, or a ledger logging transaction
@@ -56,25 +57,25 @@ Released in 2012, a digital technology and payment processing company, XRP
 can be used on that network to facilitate exchanges of different currency types, 
 including fiat currencies and other major cryptocurrencies.
 
-This study is based on primary data which has been collected from the website https://finance.yahoo.com/cryptocurrencies/
+### This study is based on primary data which has been collected from the website https://finance.yahoo.com/cryptocurrencies/
 
 
 ◢ ANALYSIS AND INFERENCE: 
 
-(1) Exploratory Data analysis entails the exploration of different price distributions to 
-analyse any trends and seasonality. A Price distribution chart gives a glimpse of how 
-the prices have been thought for the past 5 years for all cryptocurrencies.
+#### (1) Exploratory Data analysis entails the exploration of different price distributions to 
+#### analyse any trends and seasonality. A Price distribution chart gives a glimpse of how 
+#### the prices have been thought for the past 5 years for all cryptocurrencies.
 
-(2) However, correlation coefficients are very handy in terms of understanding the 
-relationships between different currencies. All cryptocurrencies were more or 
-less correlated with each other positively or negatively.
+#### (2) However, correlation coefficients are very handy in terms of understanding the 
+#### relationships between different currencies. All cryptocurrencies were more or 
+#### less correlated with each other positively or negatively.
 
-(3) Volume is such an important metric when analysing cryptos and it can help 
-investors in showing a coin’s direction. A greater volume of cryptocurrency 
-transactions leads to fair cryptocurrency prices and removes the chance of 
-distorted pricing.
+#### (3) Volume is such an important metric when analysing cryptos and it can help 
+#### investors in showing a coin’s direction. A greater volume of cryptocurrency 
+#### transactions leads to fair cryptocurrency prices and removes the chance of 
+#### distorted pricing.
 
-(4) Bitcoin is leading the market. Bitcoin is probably the best-known 
-cryptocurrency, and its value has been skyrocketed in recent years. Ethereum is 
-another popular cryptocurrency worth looking into, as its value has been 
-steadily increasing over the past.
+#### (4) Bitcoin is leading the market. Bitcoin is probably the best-known 
+#### cryptocurrency, and its value has been skyrocketed in recent years. Ethereum is 
+#### another popular cryptocurrency worth looking into, as its value has been 
+####steadily increasing over the past.
