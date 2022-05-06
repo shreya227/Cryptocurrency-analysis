@@ -60,6 +60,7 @@ This study is based on primary data which has been collected from the website ht
 
 
 ◢ ANALYSIS AND INFERENCE: 
+
 (1) Exploratory Data analysis entails the exploration of different price distributions to 
 analyse any trends and seasonality. A Price distribution chart gives a glimpse of how 
 the prices have been thought for the past 5 years for all cryptocurrencies.
