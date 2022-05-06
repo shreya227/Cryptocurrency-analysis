@@ -2,7 +2,8 @@
 
 @shreya227
 
-◢ Introduction
+◢ Introduction: 
+
 Today, there are different type of cryptocurrencies with different technologies and 
 functionality. Since their inception in 2008 and the subsequent enthusiasm, media 
 attention, delusion, reflection, and continuous innovation, ‘cryptocurrencies’ have 
@@ -22,6 +23,7 @@ Prediction of future prices of cryptocurrencies using past data is possible with
 of statistical tools and techniques.
 
 ◢ Cryptocurrency – meaning and definition:
+
 Cryptocurrency, generally referred to as cryptocurrency or crypto, may be any sort of 
 currency that exists digitally or nearly and uses cryptography to secure transactions. 
 Cryptocurrencies don't have a central issuance or regulation authority, rather than 
@@ -61,13 +63,16 @@ This study is based on primary data which has been collected from the website ht
 (1) Exploratory Data analysis entails the exploration of different price distributions to 
 analyse any trends and seasonality. A Price distribution chart gives a glimpse of how 
 the prices have been thought for the past 5 years for all cryptocurrencies.
+
 (2) However, correlation coefficients are very handy in terms of understanding the 
 relationships between different currencies. All cryptocurrencies were more or 
 less correlated with each other positively or negatively.
+
 (3) Volume is such an important metric when analysing cryptos and it can help 
 investors in showing a coin’s direction. A greater volume of cryptocurrency 
 transactions leads to fair cryptocurrency prices and removes the chance of 
 distorted pricing.
+
 (4) Bitcoin is leading the market. Bitcoin is probably the best-known 
 cryptocurrency, and its value has been skyrocketed in recent years. Ethereum is 
 another popular cryptocurrency worth looking into, as its value has been 
