@@ -57,10 +57,14 @@ Released in 2012, a digital technology and payment processing company, XRP
 can be used on that network to facilitate exchanges of different currency types, 
 including fiat currencies and other major cryptocurrencies.
 
+
+
 ### This study is based on primary data which has been collected from the website https://finance.yahoo.com/cryptocurrencies/
 
 
-◢ ANALYSIS AND INFERENCE: 
+
+
+## ◢ ANALYSIS AND INFERENCE: 
 
 #### (1) Exploratory Data analysis entails the exploration of different price distributions to 
 #### analyse any trends and seasonality. A Price distribution chart gives a glimpse of how 
